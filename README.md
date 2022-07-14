@@ -1,6 +1,8 @@
 ```js
 // npm create vite@latest
 // npm install -D tailwindcss postcss autoprefixer
+// npx tailwindcss init
+// npm i daisyui
 ```
 
 <details>
